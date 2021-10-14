@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GuessinggGameThreeTimes/1.0.0": {
+        "runtime": {
+          "GuessinggGameThreeTimes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GuessinggGameThreeTimes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

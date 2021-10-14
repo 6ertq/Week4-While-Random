@@ -1,0 +1,16 @@
+C:\Users\Gerta\source\repos\LoopsAndRandomNumbers\RandomNumber\bin\Debug\net5.0\RandomNumber.exe
+C:\Users\Gerta\source\repos\LoopsAndRandomNumbers\RandomNumber\bin\Debug\net5.0\RandomNumber.deps.json
+C:\Users\Gerta\source\repos\LoopsAndRandomNumbers\RandomNumber\bin\Debug\net5.0\RandomNumber.runtimeconfig.json
+C:\Users\Gerta\source\repos\LoopsAndRandomNumbers\RandomNumber\bin\Debug\net5.0\RandomNumber.runtimeconfig.dev.json
+C:\Users\Gerta\source\repos\LoopsAndRandomNumbers\RandomNumber\bin\Debug\net5.0\RandomNumber.dll
+C:\Users\Gerta\source\repos\LoopsAndRandomNumbers\RandomNumber\bin\Debug\net5.0\ref\RandomNumber.dll
+C:\Users\Gerta\source\repos\LoopsAndRandomNumbers\RandomNumber\bin\Debug\net5.0\RandomNumber.pdb
+C:\Users\Gerta\source\repos\LoopsAndRandomNumbers\RandomNumber\obj\Debug\net5.0\RandomNumber.csproj.AssemblyReference.cache
+C:\Users\Gerta\source\repos\LoopsAndRandomNumbers\RandomNumber\obj\Debug\net5.0\RandomNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gerta\source\repos\LoopsAndRandomNumbers\RandomNumber\obj\Debug\net5.0\RandomNumber.AssemblyInfoInputs.cache
+C:\Users\Gerta\source\repos\LoopsAndRandomNumbers\RandomNumber\obj\Debug\net5.0\RandomNumber.AssemblyInfo.cs
+C:\Users\Gerta\source\repos\LoopsAndRandomNumbers\RandomNumber\obj\Debug\net5.0\RandomNumber.csproj.CoreCompileInputs.cache
+C:\Users\Gerta\source\repos\LoopsAndRandomNumbers\RandomNumber\obj\Debug\net5.0\RandomNumber.dll
+C:\Users\Gerta\source\repos\LoopsAndRandomNumbers\RandomNumber\obj\Debug\net5.0\ref\RandomNumber.dll
+C:\Users\Gerta\source\repos\LoopsAndRandomNumbers\RandomNumber\obj\Debug\net5.0\RandomNumber.pdb
+C:\Users\Gerta\source\repos\LoopsAndRandomNumbers\RandomNumber\obj\Debug\net5.0\RandomNumber.genruntimeconfig.cache

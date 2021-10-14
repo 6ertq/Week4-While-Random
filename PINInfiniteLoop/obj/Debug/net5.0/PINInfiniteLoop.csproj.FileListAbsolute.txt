@@ -1,0 +1,16 @@
+C:\Users\Gerta\source\repos\LoopsAndRandomNumbers\PINInfiniteLoop\bin\Debug\net5.0\PINInfiniteLoop.exe
+C:\Users\Gerta\source\repos\LoopsAndRandomNumbers\PINInfiniteLoop\bin\Debug\net5.0\PINInfiniteLoop.deps.json
+C:\Users\Gerta\source\repos\LoopsAndRandomNumbers\PINInfiniteLoop\bin\Debug\net5.0\PINInfiniteLoop.runtimeconfig.json
+C:\Users\Gerta\source\repos\LoopsAndRandomNumbers\PINInfiniteLoop\bin\Debug\net5.0\PINInfiniteLoop.runtimeconfig.dev.json
+C:\Users\Gerta\source\repos\LoopsAndRandomNumbers\PINInfiniteLoop\bin\Debug\net5.0\PINInfiniteLoop.dll
+C:\Users\Gerta\source\repos\LoopsAndRandomNumbers\PINInfiniteLoop\bin\Debug\net5.0\ref\PINInfiniteLoop.dll
+C:\Users\Gerta\source\repos\LoopsAndRandomNumbers\PINInfiniteLoop\bin\Debug\net5.0\PINInfiniteLoop.pdb
+C:\Users\Gerta\source\repos\LoopsAndRandomNumbers\PINInfiniteLoop\obj\Debug\net5.0\PINInfiniteLoop.csproj.AssemblyReference.cache
+C:\Users\Gerta\source\repos\LoopsAndRandomNumbers\PINInfiniteLoop\obj\Debug\net5.0\PINInfiniteLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gerta\source\repos\LoopsAndRandomNumbers\PINInfiniteLoop\obj\Debug\net5.0\PINInfiniteLoop.AssemblyInfoInputs.cache
+C:\Users\Gerta\source\repos\LoopsAndRandomNumbers\PINInfiniteLoop\obj\Debug\net5.0\PINInfiniteLoop.AssemblyInfo.cs
+C:\Users\Gerta\source\repos\LoopsAndRandomNumbers\PINInfiniteLoop\obj\Debug\net5.0\PINInfiniteLoop.csproj.CoreCompileInputs.cache
+C:\Users\Gerta\source\repos\LoopsAndRandomNumbers\PINInfiniteLoop\obj\Debug\net5.0\PINInfiniteLoop.dll
+C:\Users\Gerta\source\repos\LoopsAndRandomNumbers\PINInfiniteLoop\obj\Debug\net5.0\ref\PINInfiniteLoop.dll
+C:\Users\Gerta\source\repos\LoopsAndRandomNumbers\PINInfiniteLoop\obj\Debug\net5.0\PINInfiniteLoop.pdb
+C:\Users\Gerta\source\repos\LoopsAndRandomNumbers\PINInfiniteLoop\obj\Debug\net5.0\PINInfiniteLoop.genruntimeconfig.cache

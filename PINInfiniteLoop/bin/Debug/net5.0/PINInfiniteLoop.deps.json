@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PINInfiniteLoop/1.0.0": {
+        "runtime": {
+          "PINInfiniteLoop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PINInfiniteLoop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

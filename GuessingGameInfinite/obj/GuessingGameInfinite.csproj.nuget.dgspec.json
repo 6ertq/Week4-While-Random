@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Gerta\\source\\repos\\LoopsAndRandomNumbers\\GuessingGameInfinite\\GuessingGameInfinite.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Gerta\\source\\repos\\LoopsAndRandomNumbers\\GuessingGameInfinite\\GuessingGameInfinite.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gerta\\source\\repos\\LoopsAndRandomNumbers\\GuessingGameInfinite\\GuessingGameInfinite.csproj",
+        "projectName": "GuessingGameInfinite",
+        "projectPath": "C:\\Users\\Gerta\\source\\repos\\LoopsAndRandomNumbers\\GuessingGameInfinite\\GuessingGameInfinite.csproj",
+        "packagesPath": "C:\\Users\\Gerta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gerta\\source\\repos\\LoopsAndRandomNumbers\\GuessingGameInfinite\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gerta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

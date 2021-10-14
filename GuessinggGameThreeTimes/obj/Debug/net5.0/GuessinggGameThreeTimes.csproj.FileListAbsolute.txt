@@ -1,0 +1,15 @@
+C:\Users\Gerta\source\repos\LoopsAndRandomNumbers\GuessinggGameThreeTimes\bin\Debug\net5.0\GuessinggGameThreeTimes.exe
+C:\Users\Gerta\source\repos\LoopsAndRandomNumbers\GuessinggGameThreeTimes\bin\Debug\net5.0\GuessinggGameThreeTimes.deps.json
+C:\Users\Gerta\source\repos\LoopsAndRandomNumbers\GuessinggGameThreeTimes\bin\Debug\net5.0\GuessinggGameThreeTimes.runtimeconfig.json
+C:\Users\Gerta\source\repos\LoopsAndRandomNumbers\GuessinggGameThreeTimes\bin\Debug\net5.0\GuessinggGameThreeTimes.runtimeconfig.dev.json
+C:\Users\Gerta\source\repos\LoopsAndRandomNumbers\GuessinggGameThreeTimes\bin\Debug\net5.0\GuessinggGameThreeTimes.dll
+C:\Users\Gerta\source\repos\LoopsAndRandomNumbers\GuessinggGameThreeTimes\bin\Debug\net5.0\ref\GuessinggGameThreeTimes.dll
+C:\Users\Gerta\source\repos\LoopsAndRandomNumbers\GuessinggGameThreeTimes\bin\Debug\net5.0\GuessinggGameThreeTimes.pdb
+C:\Users\Gerta\source\repos\LoopsAndRandomNumbers\GuessinggGameThreeTimes\obj\Debug\net5.0\GuessinggGameThreeTimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gerta\source\repos\LoopsAndRandomNumbers\GuessinggGameThreeTimes\obj\Debug\net5.0\GuessinggGameThreeTimes.AssemblyInfoInputs.cache
+C:\Users\Gerta\source\repos\LoopsAndRandomNumbers\GuessinggGameThreeTimes\obj\Debug\net5.0\GuessinggGameThreeTimes.AssemblyInfo.cs
+C:\Users\Gerta\source\repos\LoopsAndRandomNumbers\GuessinggGameThreeTimes\obj\Debug\net5.0\GuessinggGameThreeTimes.csproj.CoreCompileInputs.cache
+C:\Users\Gerta\source\repos\LoopsAndRandomNumbers\GuessinggGameThreeTimes\obj\Debug\net5.0\GuessinggGameThreeTimes.dll
+C:\Users\Gerta\source\repos\LoopsAndRandomNumbers\GuessinggGameThreeTimes\obj\Debug\net5.0\ref\GuessinggGameThreeTimes.dll
+C:\Users\Gerta\source\repos\LoopsAndRandomNumbers\GuessinggGameThreeTimes\obj\Debug\net5.0\GuessinggGameThreeTimes.pdb
+C:\Users\Gerta\source\repos\LoopsAndRandomNumbers\GuessinggGameThreeTimes\obj\Debug\net5.0\GuessinggGameThreeTimes.genruntimeconfig.cache
